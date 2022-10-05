@@ -4,7 +4,7 @@ We have made this app with clean architecture and I used cubit as state manageme
 
 ## Brief explanation
 
-With this app you can browse in hotels and search for specific hotel and there is a map view to find the exact location of the hotel on the map. You can see a video [in this link](https://drive.google.com/drive/folders/1JkvEUWO9Eu4MhOyQ2Mi8gDVlOMutxHKS?usp=sharing).
+With this app you can browse in hotels and search for specific hotel and there is a map view to find the exact location of the hotel on the map. You can see a video [in this link](https://drive.google.com/file/d/11Q3trkUYdZeNQDzWLzYRtvvLOMqnr5Nq/view).
 
 ## Screenshots
 
